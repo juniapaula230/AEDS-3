@@ -1,0 +1,13 @@
+direcionado=nao
+4
+0 21 13 Bethoven
+1 10 20  Van Gogh
+2 41 26  Edmound
+3 14 44  Bukwoski
+6
+0 1 1 
+0 2 4
+0 3 1
+1 2 1
+1 3 2
+2 3 1
